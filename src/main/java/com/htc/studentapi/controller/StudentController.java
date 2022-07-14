@@ -18,7 +18,7 @@ import com.htc.studentapi.repository.StudentRepository;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "http://localhost:8090")
 public class StudentController {
 	
 	@Autowired
