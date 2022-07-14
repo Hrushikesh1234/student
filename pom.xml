@@ -83,7 +83,7 @@
 			    <webResources>
 				<resource>
 				    <!-- this is relative to the pom.xml directory -->
-				    <directory>${basedir}/../student/dist</directory >
+				    <directory>${basedir}/../student</directory >
 				</resource>
 			    </webResources>
 			</configuration>
